@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   translator:
     agent_name: Almqvist, August W.
-    birthdate: &id001 1839
+    birthdate: 1839
     gutenberg_agent_id: '9131'
     url: http://www.gutenberg.org/2009/agents/9131
 covers:
@@ -13,11 +13,13 @@ creator:
   author:
     agent_name: Wallin, Johan Olof
     birthdate: 1779
-    deathdate: *id001
+    deathdate: 1839
     gutenberg_agent_id: '9107'
     url: http://www.gutenberg.org/2009/agents/9107
     wikipedia: http://en.wikipedia.org/wiki/Johan_Olof_Wallin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20135#The-Angel-of-Death
 gutenberg_issued: '2006-12-20'
 gutenberg_type: Text
 identifiers:
